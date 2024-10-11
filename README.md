@@ -59,6 +59,7 @@ Conditional statements (`if-else`) are used to:
 ---
 ### Flow Chart:
 ![SVG Image](./Flow-chart.svg)
+---
 
 ## Contributors:
 - **Prashant Kumar Garg**
