@@ -54,7 +54,7 @@ Conditional statements (`if-else`) are used to:
 
 ### 4. Fare Calculation:
 - Uses **loops** and **arrays** to store and manage station data.
-- The fare is calculated based on the distance (or predefined fare rates) between two selected stations.
+- The fare is calculated based on the distance (or predefined fare rates) between two selected stations.(Reference- Noida electronics city)
 
 ---
 
