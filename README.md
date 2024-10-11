@@ -57,6 +57,7 @@ Conditional statements (`if-else`) are used to:
 - The fare is calculated based on the distance (or predefined fare rates) between two selected stations.(Reference- Noida electronics city)
 
 ---
+### Flow Chart:
 ![SVG Image](./Flow-chart.svg)
 
 ## Contributors:
