@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
-#include <conio.h>
 
 #define USERNAME "delhimetro"
 #define PASSWORD "password123"
@@ -325,7 +324,7 @@ void printPattern() {
 	printf("   	(____/     (_____/       (______/      (______/       (______/            (__)                            (_)  (_)        (_)  (_)	\n");
 	printf("         ~~~~       ~~~~~         ~~~~~~         ~~~~           ~~~~               ~~                              ~    ~          ~    ~ \n");
 }
-
+//This Train is made by Prashant. Don't copy :)
 
 void login(struct User *user) {//Function for verifying user details and logging the user in
     char inputUsername[20];
